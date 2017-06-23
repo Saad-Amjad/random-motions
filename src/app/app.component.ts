@@ -47,7 +47,7 @@ export class AppComponent {
     return MOTIONS;
   }
 
-  private getRandomMotion() {
+  public getRandomMotion() {
     const randomNumberWithinRange = Math.random() * (this.index - 0) + 0;
     const randomIndex = parseInt(JSON.stringify(randomNumberWithinRange), 10);
     this.randomMotion = this.motion[randomIndex];
