@@ -1,7 +1,6 @@
 import { Motion } from './motion.class';
 export const MOTIONS: Motion[] = [{
   id: 1, text: `
-    Yale IV 2016
     R1: THW abolish all occupational licensing.
     R2: THBT western nations fighting the Islamic state should commit to the creation of an independent Kurdish state.
     R3: This house believes that religious officials (e.g. priests, imams, rabbis) should not make statements in support of political policies, parties, or candidates.
@@ -13,45 +12,22 @@ export const MOTIONS: Motion[] = [{
     OS: THS Supreme Court rulings based on natural rights not enumerated in constitutions
     NF: TH fears the development of independent AI
     Finals: TH believes in God
-
-    NAUDC 2016
-
-
     R1: THP a unified state-dominated public policy research landscape to one dominated by ideologically defined think tanks.
-
     R2: THBT Kashmir should strive for independence, rather than political unification with Pakistan.
-
     R3: THP a world where the notion of the afterlife is based on karmic balance and not divine mercy.
-
     R4: THBT when systematically important financial institutions are in need of financial assistance during recessions, the burden should fall upon creditors (e.g., via diluting shareholder value by turning debt into equity) rather than the government stepping in.
-
     R5: THBT Islamic Authorities in South East Asia should issue a Fatwa declaring Wahhabism to be un-Islamic.
-
     R6: THBT western social justice groups (e.g., feminist advocacy, LGBT advocacy) should have a local agenda, as opposed to a global agenda.
-
     QF: THR the market's erosion of the nation state.
-
     SF: THBT the Dalai Lama should announce that he will not reincarnate and declare that the office of the Dalai Lama will henceforth not exist.
-
     Novice Finals: THR the rise of New Atheism.
-
     Grand Final: THBT indigenous peoples would be justified in sabotaging (violently or otherwise) economic projects in the event that they are built across or on their land without their democratic consent.
-
-    HUBER 2016
-
-
     R1: THW implement mandatory paternity leave for new fathers
-
     R2: THBT countries should implement strong worker protection laws, even at the cost of economic growth (ie. collective bargaining, overtime hours, worker compensation etc.)
-
     R3: THW deny tax-exempt status to religious institutions that restrict women from accessing leadership or teaching roles
-
     R4: THBT Jewish Americans have a moral obligation to suspend their participation in organizations (Hillel, Birthright, AIPAC, etc.) that endorse Israel&amp;rsquo;s current settlement programs
-
     R5: THW create an international organization to facilitate private individuals suing foreign governments for causing serious harms to their communities (drone strikes, harboring terrorists, etc.)
-
     Novice Final: THW allow voters to repeal legislation using citizen-initiated referenda, passed by a two-thirds popular vote majority.
-
     Open Quarter: In regions with severe, widespread violence against women, THS acts of vigilante justice in response to gendered assaults.
 
     Open Semi: THBT the Kurdish people should abandon attempts to establish an independent state, in favour of seeking greater political inclusion in Turkey and Iraq
@@ -76,7 +52,6 @@ export const MOTIONS: Motion[] = [{
     Open Final: THBT the Left should not celebrate the ideal of individuals climbing up the class ladder.
 
 
-    Chittagong IV 2016
 
 
 
@@ -176,17 +151,14 @@ export const MOTIONS: Motion[] = [{
 
 
 
-    Novice Quarters and Open Pre-Quarters:
 
     Technology has created a blue pill that will make you forget instances, events, persons and parts of life that you want to forget (for example, heartbreak, trauma, failure, etc.)
 
     TH prefers that the blue pill did NOT exist.
 
-    Novice Semis and Open Quarter:
 
     THBT all asian nations should reprioritize their foreign policies to create a Pan-Asian super power
 
-    Novice Final and Open Semi:
 
     TH prefers the depiction of public/super heroes as characters with both positive and negative traits rather than ideal good characters.
 
@@ -337,7 +309,6 @@ export const MOTIONS: Motion[] = [{
 
 
 
-    IUB NDDC 7 Round 1.0 2016
 
     Prelims:
 
@@ -391,12 +362,6 @@ export const MOTIONS: Motion[] = [{
 
     Open Semi-Finals:
 
-    All his life, Kuddus has been told he's special, because, as his parents said, "everyone is special!" He didn't feel particularly special when he passed out of school, joined a mediocre job, settled down into a marriage and had pretty average kids. Then one day his daughter asked him how she looked in her lal jama and he said, "You look beautiful. You know, everyone is beautiful, in their own way." 
-
-
-
-    TH, as Kuddus, would prefer to live in a world where no rhetoric or narrative of the uniqueness or specialty of an individual exists. 
-
 
 
     Novice Final:
@@ -434,9 +399,7 @@ export const MOTIONS: Motion[] = [{
 
     Round 4: TH, as a gay Palestinian, would co-operate with the IDF against Hamas
 
-    Pre Semis: THBT militaries should aggressively engage in genetic and bionic enhancement of
-
-    consenting soldiers.
+    Pre Semis: THBT militaries should aggressively engage in genetic and bionic enhancement of consenting soldiers.
 
 
 
@@ -444,9 +407,7 @@ export const MOTIONS: Motion[] = [{
 
 
 
-    Grand Final: THBT the IMF, World Bank, ECB, etc should require states in need of bailouts to 
-
-    provide collateral ( eg. mining rights, land and share in privatized assets).
+    Grand Final: THBT the IMF, World Bank, ECB, etc should require states in need of bailouts to provide collateral ( eg. mining rights, land and share in privatized assets).
 
     ASDC 2016
 
@@ -458,7 +419,6 @@ export const MOTIONS: Motion[] = [{
 
     THW ban all religions
 
-    THW ban All Hook-Up Platforms (e.g. Tinder, Grindr)
 
 
 
@@ -590,7 +550,6 @@ export const MOTIONS: Motion[] = [{
 
     Round 1: Feminism
 
-    (FEMEN is a group of topless female activists. The organization became internationally known for organizing controversial topless protests against sex tourism, religious institutions,sexism, homophobia and other social, national and international topics.)
 
     THBT the feminist movement should excommunicate the FEMEN. 
 
@@ -609,7 +568,6 @@ export const MOTIONS: Motion[] = [{
 
 
 
-    (Anonymous (proper noun) is a loosely associated international network of activist and hacktivist entities. The group became known for a series of well-publicized publicity stunts and cyber attacks on government, religious, and corporate websites.)
 
     TH as the US Govt will support Anonymous to attack the ISIS.
 
@@ -671,11 +629,8 @@ export const MOTIONS: Motion[] = [{
 
 
 
-    (“I Have a Dream” is a public speech delivered by American civil rights activist Martin Luther King Jr.  who wanted to end racism in the United States using nonviolent civil disobedience based on his Christian beliefs.
 
-    "Fuck tha Police" is a protest song by the gangsta rap group N.W.A. Protesting police brutality and racial profiling, its lyrics express approval of violence against police.)
 
-    Video Slides: Fuck tha Police ; I have a dream
 
 
 
@@ -876,13 +831,9 @@ export const MOTIONS: Motion[] = [{
 
     Round 1
 
-    In democracies, THW criminalize the issuance of fatwas which contradicts he
+    In democracies, THW criminalize the issuance of fatwas which contradicts the law of the land
 
-    law of the land
-
-    THBT cabinet positions (e.g., minister of foreign affairs, minister of education,
-
-    etc) should only be appointed through merit based examinations
+    THBT cabinet positions (e.g., minister of foreign affairs, minister of education, etc) should only be appointed through merit based examinations
 
     THW allow negative voting in elections
 
@@ -892,23 +843,15 @@ export const MOTIONS: Motion[] = [{
 
     TH supports the creation of an independent territory for the LGBT
 
-    THW require all advertising on personal grooming products and services
-
-    to be gender neutral
+    THW require all advertising on personal grooming products and services to be gender neutral
 
     Round 3
 
-    In multi-ethnic societies, THW prioritize the hiring of ethnic minorities for
-
-    teaching positions
+    In multi-ethnic societies, THW prioritize the hiring of ethnic minorities for teaching positions
 
     THW shut down schools that have high incidences of bullying
 
-    THW make the fulfillment of an Academic Minor in liberal arts (e.g. social
-
-    sciences, humanities, political science, philosophy, etc) a requirement for
-
-    all university programs
+    THW make the fulfillment of an Academic Minor in liberal arts (e.g. social sciences, humanities, political science, philosophy, etc) a requirement for all university programs
 
     Round 4
 
@@ -922,33 +865,19 @@ export const MOTIONS: Motion[] = [{
 
     Round 5
 
-    THBT social movements should abandon the strategy of attacking and 
+    THBT social movements should abandon the strategy of attacking and delegitimizing the viewpoints of other people on the basis of their privilege
 
-    delegitimizing the viewpoints of other people on the basis of their privilege
+    THW determine income tax based on the relative privilege of an individuals' upbringing
 
-    THW determine income tax based on the relative privilege of an individuals'
-
-    upbringing
-
-    THW impose an absolute cap on the non-medical, non-emergency 
-
-    expenditure by parents on each of their children
+    THW impose an absolute cap on the non-medical, non-emergency expenditure by parents on each of their children
 
     Round 6
 
-    TH, as a developing country, would not investigate individuals' and
+    TH, as a developing country, would not investigate individuals' and companies' offshore investments if they bring the funds back and invest in the local community
 
-    companies' offshore investments if they bring the funds back and invest in the local community
+    In developing countries, THW not allow Multinational Corporations (MNCs) to sue Small or Medium Enterprises for copyrights/patents infringement
 
-    In developing countries, THW not allow Multinational Corporations
-
-    (MNCs) to sue Small or Medium Enterprises for copyrights/patents
-
-    infringement
-
-    THBT government should nationalize all sin industries (e.g. alcohol, gambling,
-
-    and tobacco industries)
+    THBT government should nationalize all sin industries (e.g. alcohol, gambling, and tobacco industries)
 
     Round 7
 
@@ -956,34 +885,16 @@ export const MOTIONS: Motion[] = [{
 
     THBT feminist movement should celebrate the rising trend of open relationship
 
-    THBT the feminist movement should name and shame prominent female 
-
-    figures who take on jobs that pay men more for the work
+    THBT the feminist movement should name and shame prominent female figures who take on jobs that pay men more for the work
 
     Round 8
 
     THW ban diagnose-me websites
 
-    You are a fertility doctor. A patient, who comes from a conservative background 
 
-    and is married, approaches you to conduct a test to diagnose her infertility.
-
-    The test analysis reveals that your patient is genetically male, and suffers 
-
-    from a rare disorder which renders the patient's body unable to release
-
-    testosterone, resulting in the patient gaining a woman's physique. Assuming
-
-    there was no chance of being found out, 
-
-    THW not reveal to the patient that he is genetically male
-
-    THW criminalize the pharmaceutical companies for shortages/stockouts of
-
-    medically critical products
+    THW criminalize the pharmaceutical companies for shortages/stockouts of medically critical products
 
 
-    UIU BDC WSDC Fundraiser 2016 
 
 
     Round 1:
@@ -1000,10 +911,6 @@ export const MOTIONS: Motion[] = [{
     THW Ban religious organizations from providing rehabilitations to drug and alcohol addicts. 
 
     Round 4:
-
-    Context: Oskar Gröning joined the SS during the 1940s, and was positioned at Auschwitz concentration camp as a financial clerk. After the end of the war, he remained silent about his experiences for forty years. In response to Holocaust denial by a number of authoritative and well-known individuals, he spoke about his experiences and actions, highlighting the horrors that occurred. This contributed to a decision of the German government to prosecute him as an accessory to murder in 300,000 cases. Although he did not kill anyone while working at the camp in Nazi-occupied Poland during the second world war, prosecutors argued that by sorting banknotes taken from the trainloads of arriving Jews he helped support a regime responsible for mass murder. Gröning does not consider himself guilty of any crime, since he was no way directly involved in the killing.
-
-
 
     THBT Oskar Gröning should not be prosecuted. 
 
@@ -1029,7 +936,7 @@ export const MOTIONS: Motion[] = [{
 
     Round 1: Educa-shun
 
-    1. Context: VidyaBharati schools are run by the RSS with specific outreach to tribal and rural areas where other schools are often inaccessible. Although affiliated with the Central Board for Secondary Education, they provide a highly sanskritised version of education steeped in narratives of religion and religious preaching. Motion: THW derecognize all VidyaBharathi schools in Tribal Areas
+    THW derecognize all VidyaBharathi schools in Tribal Areas
 
     2. THW disallow working high school teachers from engaging private tuitions or working in coaching centres
 
@@ -1056,10 +963,7 @@ export const MOTIONS: Motion[] = [{
     3. THBT convicts who have served their sentences with good behavior deserve the right to be forgotten on the Internet as soon as they are released.
 
 
-
     Round 4: Feminism
-
-    1. Context:  Priya's Shakti is a comic book that seeks to illuminate attitudes towards gender-based violence. The protagonist is a rape victim named Priya who is empowered by the divine intervention of Goddess Parvati, who then spreads awareness amongst women on issues of sexual violence. As the website of the comic says, "the project is rooted in ancient matriarchal traditions that have been displaced in modern representations of Hindu culture. It creates an alternative narrative and voice against GBV in popular culture through the Hindu mythological canon." Motion: TH, as a feminist, will regret the comic Book ‘Priya’s Shakti
 
     2. Context: Surveys and studies show that women are significantly more likely to take selfies than men. TH, as a feminist, regrets the rise of the selfie as a means of expression.
 
@@ -1088,8 +992,6 @@ export const MOTIONS: Motion[] = [{
 
 
     Novice Semifinals: Potpurri
-
-    1. Context: The Zoroastrian Cooperative Housing Society is a housing society that requires its residents to sign a contract which allows the selling or renting of their property only to Parsis. In 2005, this was unsuccessfully challenged in the Supreme Court of India. Motion: THBT the state should declare such contracts made by housing societies with individuals null and void in case to the extent that they are discriminatory.
 
     2. Context: The term 'Euroscepticism' is used to describe a sceptic opposition towards the European Union and its policies. Motion: TH celebrates the rise of eurosceptic parties in the Eurozone.
 
@@ -1121,7 +1023,6 @@ export const MOTIONS: Motion[] = [{
 
     2. THBT marketing wings of companies that claim to offer tailored products/solutions based on consumer preferences, should be mandated to disclose the techniques/algorithms used by them.
 
-    3. Context: The Behavioral Insights Team of the Cabinet Office of the UK (colloquially referred to as the Nudge Unit) comprises of a group of economists and psychologists that utilize insights from behavioral science to encourage people to make better choices for themselves and society. By looking closely at how people make choices, the unit tries to nudge people into making desirable choices by framing these choices and presenting them differently. Motion: THBT it is illegitimate for the State to utilize the Nudge Unit in order to influence citizens' choices. 
 
 
     VITDT 2015
@@ -1233,8 +1134,6 @@ export const MOTIONS: Motion[] = [{
     Round 3: THBT it is legitimate to use unethical means (including but not limited to lying, vote buying and bribery) to push for progressive legislation
 
 
-
-    Round 4: Context slide: A model minority is a minority group (whether based on ethnicity, race or religion) whose members most often are perceived to achieve a higher degree of socioeconomic success than other minorities and the average population. This success is typically measured in income, education, low crime rate and high family stability.
 
     TH, as Asians who live in the US and believe in racial equality, will actively fight the ‘model minority’ stereotype
 
