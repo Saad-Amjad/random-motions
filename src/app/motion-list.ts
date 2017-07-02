@@ -1,6 +1,323 @@
 import { Motion } from './motion.class';
 export const MOTIONS: Motion[] = [{
   id: 1, text: `
+    THBT there should be no separation of genders in professional wrestling.
+
+    r2	TH would allow elected student unions to determine the syllabus in tertiary education instead of teachers
+
+    r3	THBT the EU should punish Britain with harsh terms during negotiations for BREXIT.
+
+
+    THW actively push for the judgment call to the underrepresented institution and inflate their speaker scores.
+
+    r5	THBT class is more important than race
+
+
+    BDC Team Bangladesh Fundraiser Open 2017
+
+    Round 1: THW give corporations the access to own and run cities
+
+    Round 2: In nations where ethnic and religious minorities are oppressed, THBT these groups should unite and form their own singular political party
+
+    Round 3:
+    Motion: Th, as the feminist movement will not take Thao as a role model
+
+    Round 4: This House prefers a world where conception of the afterlife is based on karmic balance, rather than divine mercy  
+
+    Pre Semis:
+    Motion: THBT education systems should actively teach "Sticking it to the man"
+
+    Semis: In socially conservative societies, Th prefers that creaet creators of socially tabooed art should always maintain anonymity.
+
+    Final:
+    Motion: TH prefers a world where human beings are born as complete adults.
+
+
+
+
+
+    TH supports "Gold Diggers"
+
+    TH regrets the rise of motivational speaking industry in Bangladesh
+
+    TH will delete Uber.
+
+    TH would abolish gated communities in developing countries.
+
+    TH will significantly tax organizations that employ robots instead of human beings.
+
+    THBT CHT indigenous communities should seek separation instead of reparation.
+
+    THBT the feminist movement should condemn the Vanity Fair photo-shoot
+
+    THW establish a common history textbook for the Indian Sub-Continent (India, Bangladesh, Pakistan, etc.) that is agreed upon by all the states involved.
+
+    Given the ability to accurately measure morality of a person, THW criminalize having a consistently negative moral track record
+
+
+
+
+    Motion: THBT Awarding Bodies have a duty to separate the art from the artist.
+
+    Motion: THS the campaign towards the “decolonization of minds.”
+
+    Motion: THS the reduction of trade barriers as road towards global peace.
+
+    Motion: TH, as the contemporary Dalit movement in Maharashtra, will condemn the legacy of Namdeo Dhasal.
+
+    r5:
+    TH, as India, would prefer a corrupt center-left party over a fresh right wing party as the government in power.
+
+    THW destroy public artifacts/remnants (e.g. statues) of fallen oppressive regimes.
+
+    Motion: TH being the OIC will militarize the Rohingyas.
+
+
+    Motion: THR Emma Watson’s participation in the photo-shoot.
+
+    Open Final:
+
+
+    BRAC Gender Debates 2017
+
+    Motions:
+
+    R1: THW prefer a world where children are raised communally, as opposed to in families
+    R2: In flawed democracies, THBT progressives should start entering the ruling government party.
+    R3: THW not contact uncontacted peoples
+    R4: Info Slide: THW let the captured wives and children of ex and current boko haram militants to choose to live in open society
+    R5: THBT the feminist movement should oppose drag culture
+
+    Semi: THW remove public commemorations to individuals whose legacy is based upon divisive history, e.g. Winston Churchill, Vladimir Lenin
+
+
+    Final: THW prefer a world where everyone wore uniform Grey jumpsuits.
+
+    HKBPDC 2017
+
+    R1: THR participation awards.
+
+    R2: (Infoslide: A time limit of an offence prevents any legal proceeding, civil or criminal, to be brought after that time period has expired.) In places where time limits exist, THW remove all time limits on sex crimes.
+
+    R3: THW give women an additional vote in elections.
+
+    R4: THBT developed countries should pay developing countries to preserve rainforests.
+
+    R5: THR the liberals' attempt to mock President Trump and his supporters.
+
+    R6: THBT EU should only offer debt relief to countries in exchange for them housing refugees.
+
+    R7: TH, as the LGBT movement, welcome queerbaiting.
+    
+    THW actively prosecute fan fiction.
+
+    Quarterfinals: THW require real estate developers to commit to a specified proportion of their developments to the middle to lower class as a pre-requisite for buying land that has been zoned for residential use.
+
+    Semifinals: THBT muslim dominant countries in SEA should sanction Myanmar until it gives the Rohingyas full civil and political rights.
+
+    Grand Final: In cases where students are diagnosed with school-related mental disorders, THS mandatory government-funded homeschooling for those individual students
+
+
+
+    R1: TH regrets the use of graphic and distressing images by the media in covering Europe's refugee crisis.
+    R2: THBT all political parties should elect their leaders through open primaries.
+    R3: THW anonymize art at all stages of sale, display and curation.
+    R4: THBT countries should never use lethal autonomous robots (these being intelligent weapon systems that can select, engage and kill targets without further human intervention).
+    R5: THW transfer the majority of land rights to the indigenous population that historically held them, e.g. aborigines, native americans, etc.
+    Semis:  THW never hold national referendums on social platforms, e.g. abortions, gay marriage.
+    Final: TH welcomes the decline of religion due to the rise of science.
+
+
+
+
+    Stamford IV 2017
+
+    THW ban all non-profit organizations from using sensational graphic or overly-emotional images/videos in their promotional/marketing materials.
+    THBT students should be taught morality over mere obedience to law. 
+
+    TH as western liberal democracies will reimpose sanctions on Myanmar until the Rohingyas receive political representation.
+
+    THBT western social justice groups (e.g. Feminist advocacy, LGBT advocacy) should have a local agenda, as opposed to global agenda. 
+
+    THW the "Cultural Defense" in all criminal proceedings. 
+
+    Final: TH supports Trump's policy of closer Russia-USA ties.
+
+
+    Sunnydale Rhetoric 2017
+
+    Motions:
+    1. In countries with state sponsored healthcare, TH will allow citizens to receive a lump sum equal to the average amount spent on a citizen during their adult life, in exchange for rescinding future access to public health services.
+
+    2. TH Regrets the narrative of One True Love.
+
+    3. TH Regrets the increasing trend of “Women Only” spaces (e.g. She taxis, women only metros).
+
+    4. Assuming a minimum standard of living has been reached, THW make no further attempt to reduce inequality.
+
+    5. THBT the West should give amnesty to returning Islamic State (IS) fighters.
+
+
+    New Zealand BP 2016
+
+    R1: THBT liberals should not use pejorative labels such as racist, bigot, sexist etc to describe people whose beliefs they disagree with.
+    R2: THW transition to a cash-less society.
+    R3: THW significantly increase people's leisure time at the expense of greater prosperity, progress and growth.
+    R4: THW not allow "intersex" female athletes (such as Caster Semenya) to compete in female sporting competitions unless they take hormone suppressants.
+    R5: THW not prosecute former child soldiers for crimes committed as adults.
+    Semi-finals: THW force large companies above a certain size to be fully publicly listed.
+    Final: THBT environmental NGOs should promote genetic engineering.
+
+
+    BP Champs UBC 2016:
+
+    R1: This House would provide free, safe drugs to individuals with addictions.
+
+    This House prefers collective parenting.
+
+    R3: This House believes that major social media platforms (e.g. Facebook, Twitter) should censor bigotry.
+
+    R4: This House, as the United States, would engage in cyber-attacks against Russia.
+
+    This House would grant legal personhood to land.
+
+    Semifinals: This House believes that it is unethical to bring a new child into this world.
+
+    This House would program the robots to hide the existence of past human life on Earth.
+
+    Brandeis IV 2016
+
+    Round 1: THW significantly reduce funding for schools that perpetuate inaccuracies in their teachings of indigenous history
+    Round 2: THBT social movements should abandon the tactic of publicly shaming individuals in order to accomplish change
+    Round 3: THP a tech industry characterized by multiple smaller firms rather than one dominated by a few large players (e.g. Google Amazon Facebook in status quo)
+    Round 4: TH, as the US, would re-impose sanctions on Myanmar until the Rohingyas receive political representation
+    Round 5: THW require news websites and publications to provide opposing points of view on all politically contested issues
+    Round 6: THBT governments should provide significant financial incentives for urban citizens to move to rural areas
+    Quarter: THR South Africa's withdrawal from the ICC
+    Nov Final: THS unfettered free trade
+    Semis: THBT minority comedians should not play up stereotypes based upon their own identity within performances
+    Final: THW delicense corporations that do not engage in social responsibility proportional to their profit margins (e.g. campaigns to end hunger in a community, giving away portion of profit to charity, implementing more environmentally friendly business operations etc.) 
+
+    Rajuk Nationals 2016
+
+    Motions:
+    TH supports academic tracking of students in primary & secondary schools.
+
+    Round 2: TH supports military coup as a legitimate tool to overthrow oppressive regimes
+
+    Round 3: It’s 2019 and Mashrafe Bin Mortaza has led Bangladesh to the World Cup Championship and now wishes to retire. There is a huge public outcry for him to remain in any leadership position. 
+
+    TH, as Mashrafe Bin Mortaza, will run for public office under his own political party. 
+
+    Round 4: THW prioritize the value of happiness over the value of truth 
+
+    Round 5: TH, as the mainstream film industries, would ban item girls/songs. 
+
+    Open Octos: THBT nationalism has no place in school curriculum 
+
+    Open Quarters + Novice Semis: There is a drug "X"which when taken, completely prevents the taker from being able to engage in bad behaviours (eg. disobedience to parents, truancy etc.) 
+
+    THW allow parents to administer the "X" drug. 
+
+    Open Semis: THBT the liberals should not use terms such as bigot, racist, sexist etc. against groups of individuals who may have different opinions to theirs. 
+
+    Novice Final: TH regrets the rise of social media as the dominant source of news 
+
+    Open Final: THBT the western liberal democracies should promote the idea of communal responsibilities over the celebration of individualism.
+
+
+    Sydney Mini 2016
+
+    Round 1A: This House regrets the liberal media's depiction of Donald Trump's family
+    Round 1B: This House would ban the youth wings of political parties (e.g. Young Labor and Young Liberals)
+
+    Round 2: Assortative mating is the phenomenon whereby individuals couple within the same profession, income bracket, and educational attainment level.
+
+    This House celebrates the trend towards assortative mating in Western liberal democracies
+
+    Round 3: That we support the removal of large bank notes from circulation in India
+
+    This House regrets the dominance of these narrative tropes in the addiction literature
+
+    Round 5: That political journalism should be immune from defamation suits
+    Quarter-final: This House believes that feminists should refrain from suggesting that traditional expressions of masculinity are incompatible with feminism
+
+    Semi-final: Lee Kuan Yew was the founder of the modern Singaporean state. He pursued economic growth at the expense of civil and political liberties.
+
+    This House opposes Lee Kuan Yew's cult of personality
+
+    Final: This House, as the government of a newly liberated society, would destroy the artifacts, monuments, and symbols of the previous regime
+
+
+
+    Round 1:
+    In developing countries where primary and secondary education is free, THW grant a specific form of welfare payment to poor families who ensure that their children go to school.
+    Round 2:
+    TH regrets the rise of social media as a primary source of news.
+
+    Round 3:
+    THW require all commercially used photographs of persons which have been modified using image-editing software to clearly and specifically label the nature of these modifications.
+
+    Round 4:
+    Assuming it were possible, THW give soldiers a pill to make them forget the horrors of war at the end of their service, particularly after traumatic missions.
+
+    Round 5:
+    THW prefer a world with a common and only one language.
+
+    Round 6:
+    The WHO mandates vaccination for diseases like tuberculosis, polio, hepatitis etc. Governments across the world run frequent programs for the vaccination of their population. For example, the governments of India and Canada have incentivised these through
+
+    Assuming it were possible, THBT governments should immunize their populations via air instead of strongly encouraging individual vaccinations.
+
+    Round 7:
+    Trigger warnings are used to alert people when text and images could potentially cause extremely negative reactions (such as emotional discomfort and/or post-traumatic flashbacks). They may refer, but are not limited to images of sexual violence or physical abuse as well as historiacl texts about racial subjugation. 
+
+    THW mandate trigger warnings on all course content in universities.
+
+    Round 8:
+    Cosmopolitanism is the idea that individual identity is primarily viewed through the belief that one is part of a common global identity.
+
+    TH prefers cosmopolitanism to more limited identity constructs, for example nationalism.
+
+    Round 9:
+    THW ban the use of nuclear power as a source of energy.
+
+    Octo-Finals:
+    In communities where such relationships are acceptable and/or legal, THW advocate for the normalization of non traditional relationships and gender roles in school text books, e.g. depicting as normal and without further comment two married males raising children together.
+
+    Quarter-Finals:
+    THBT comedians and satirist should not use politically incorrect language or material.
+
+    Semi-Finals:
+    Flat tax is an income tax system in which everyone pays the same tax rate regardless of income. Progressive taxation is an income tax system in which the tax rate increases as the amount being taxed increases.
+
+    When taxing income, TH prefers a flat tax to a progressive tax system.
+
+
+    Final:
+    The member states of the AU are divided into five (5) geographic regions: North, Sourthern, East, West and Central. The AU considers the African diaspora as its sixth region; as a result, organisations and bodies representing the African Union Diaspora outside of Africa are formally included in advisory and consultative processes.
+
+    THBT the AU should cease to consider the African diaspora as its sixth region.
+
+
+    IUT Professionals 2016
+
+    Round 1: THW ban the use of faith in rehabilitation
+
+    Round 2: THW never pass laws that punishes victimless crimes
+
+    Round 3 THR the idealisation of motherhood
+
+    Round 4: TH as Elon Musk would reject Donald Trump
+
+    Round 5: THBT identity based social movements should prioritise the majority populations acceptance of that identity over preservation of a distinct culture
+
+    Round 6: THBT Islam should have a central governing authority  e.g. Pope in Catholicism
+
+    Pre Finals : th regrets the perception of soldiers as heroes
+
+    Finals : THBT high ranking officials in universities(e.g. VC , Registrar) must be democratically elected by the student body
+
     R1: THW abolish all occupational licensing.
     R2: THBT western nations fighting the Islamic state should commit to the creation of an independent Kurdish state.
     R3: This house believes that religious officials (e.g. priests, imams, rabbis) should not make statements in support of political policies, parties, or candidates.
@@ -37,7 +354,6 @@ export const MOTIONS: Motion[] = [{
     Oxford IV 2016
 
 
-
     R1: When police are put on trial for alleged instances of a violent wrongdoing, this House would decrease the burden of proof to the balance of probabilities.
     R2: This House would allow negative voting.
     R3: This House believes that armies should indoctrinate soldiers to take their own lives in the event that they fall captive to the enemy.
@@ -50,8 +366,6 @@ export const MOTIONS: Motion[] = [{
     Open Semi: TH opposes the attempts to form a new Fatah-Hamas unity government.
     ESL Final: THW prosecute leaders that have lied to their nation over the justification for going to war.
     Open Final: THBT the Left should not celebrate the ideal of individuals climbing up the class ladder.
-
-
 
 
 
@@ -6888,7 +7202,5 @@ export const MOTIONS: Motion[] = [{
     That the right to a minimum standard of living should be legally
     enforceable in developed countries
     That the International Criminal Court should allow for the prosecution
-    of ‘crimes against the earth’
-
-    Full results available at: http://www.australs2010.com/`}
+    of ‘crimes against the earth’`}
 ];
